@@ -1,4 +1,4 @@
-# 🌐 TechVolve - Official Website
+# 🌐 Techvolve - Official Website
 
 Welcome to the official website of **TechVolve**, a forward-thinking tech company offering innovative digital solutions. This site is built to showcase our services, expertise, and the value we bring to businesses through technology.
 
